@@ -1,0 +1,22 @@
+# Environment variables
+.env
+.env.*
+
+# Python virtual environment
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Streamlit secrets
+.streamlit/secrets.toml
+
+# API testing scripts
+check_gemini.py
+test_groq.py
+
+# OS files
+.DS_Store
+Thumbs.db

@@ -1,0 +1,41 @@
+Question ID,Question,Method,Expected Source,Relevant Source Chunks,Retrieved Chunks,Source Precision@5,Hit Rate@5,Expected Concept Coverage
+1,What is the objective of the research on chaotic time-series prediction?,FAISS,[1] Prediction of chaotic time series using RNN and reservior computing.pdf,5,5,1.0,1,1.0
+1,What is the objective of the research on chaotic time-series prediction?,Hybrid,[1] Prediction of chaotic time series using RNN and reservior computing.pdf,5,5,1.0,1,1.0
+2,How do GRU and LSTM differ in chaotic time-series prediction?,FAISS,[1] Prediction of chaotic time series using RNN and reservior computing.pdf,5,5,1.0,1,1.0
+2,How do GRU and LSTM differ in chaotic time-series prediction?,Hybrid,[1] Prediction of chaotic time series using RNN and reservior computing.pdf,5,5,1.0,1,1.0
+3,What is an Echo State Network?,FAISS,[1] Prediction of chaotic time series using RNN and reservior computing.pdf,5,5,1.0,1,1.0
+3,What is an Echo State Network?,Hybrid,[1] Prediction of chaotic time series using RNN and reservior computing.pdf,5,5,1.0,1,1.0
+4,What is the role of NVAR in chaotic time-series prediction?,FAISS,[1] Prediction of chaotic time series using RNN and reservior computing.pdf,5,5,1.0,1,0.667
+4,What is the role of NVAR in chaotic time-series prediction?,Hybrid,[1] Prediction of chaotic time series using RNN and reservior computing.pdf,5,5,1.0,1,0.667
+5,Which chaotic systems were used to evaluate the prediction methods?,FAISS,[1] Prediction of chaotic time series using RNN and reservior computing.pdf,5,5,1.0,1,1.0
+5,Which chaotic systems were used to evaluate the prediction methods?,Hybrid,[1] Prediction of chaotic time series using RNN and reservior computing.pdf,5,5,1.0,1,1.0
+6,Why is forecasting chaotic time series difficult?,FAISS,[1] Prediction of chaotic time series using RNN and reservior computing.pdf,5,5,1.0,1,0.5
+6,Why is forecasting chaotic time series difficult?,Hybrid,[1] Prediction of chaotic time series using RNN and reservior computing.pdf,5,5,1.0,1,0.5
+7,What are the advantages of reservoir computing compared with recurrent neural networks?,FAISS,[1] Prediction of chaotic time series using RNN and reservior computing.pdf,5,5,1.0,1,1.0
+7,What are the advantages of reservoir computing compared with recurrent neural networks?,Hybrid,[1] Prediction of chaotic time series using RNN and reservior computing.pdf,5,5,1.0,1,1.0
+8,What is the purpose of using physics-informed Echo State Networks?,FAISS,[1] Prediction of chaotic time series using RNN and reservior computing.pdf,5,5,1.0,1,1.0
+8,What is the purpose of using physics-informed Echo State Networks?,Hybrid,[1] Prediction of chaotic time series using RNN and reservior computing.pdf,5,5,1.0,1,1.0
+9,How is prediction accuracy evaluated in the research?,FAISS,[1] Prediction of chaotic time series using RNN and reservior computing.pdf,5,5,1.0,1,1.0
+9,How is prediction accuracy evaluated in the research?,Hybrid,[1] Prediction of chaotic time series using RNN and reservior computing.pdf,5,5,1.0,1,1.0
+10,What conclusions does the paper draw about LSTM and GRU performance?,FAISS,[1] Prediction of chaotic time series using RNN and reservior computing.pdf,5,5,1.0,1,0.75
+10,What conclusions does the paper draw about LSTM and GRU performance?,Hybrid,[1] Prediction of chaotic time series using RNN and reservior computing.pdf,5,5,1.0,1,0.75
+11,What is the objective of the research on the 3D cancer model?,FAISS,[11] Chaos in a 3D Cancer Model.pdf,5,5,1.0,1,1.0
+11,What is the objective of the research on the 3D cancer model?,Hybrid,[11] Chaos in a 3D Cancer Model.pdf,5,5,1.0,1,1.0
+12,What are the three interacting cell populations in the cancer model?,FAISS,[11] Chaos in a 3D Cancer Model.pdf,5,5,1.0,1,1.0
+12,What are the three interacting cell populations in the cancer model?,Hybrid,[11] Chaos in a 3D Cancer Model.pdf,5,5,1.0,1,1.0
+13,What are Lyapunov exponents used for in the 3D cancer model?,FAISS,[11] Chaos in a 3D Cancer Model.pdf,5,5,1.0,1,1.0
+13,What are Lyapunov exponents used for in the 3D cancer model?,Hybrid,[11] Chaos in a 3D Cancer Model.pdf,5,5,1.0,1,1.0
+14,What is the role of effector immune cells in the cancer model?,FAISS,[11] Chaos in a 3D Cancer Model.pdf,5,5,1.0,1,0.75
+14,What is the role of effector immune cells in the cancer model?,Hybrid,[11] Chaos in a 3D Cancer Model.pdf,5,5,1.0,1,0.75
+15,How do tumour cells interact with healthy tissue cells?,FAISS,[11] Chaos in a 3D Cancer Model.pdf,5,5,1.0,1,0.75
+15,How do tumour cells interact with healthy tissue cells?,Hybrid,[11] Chaos in a 3D Cancer Model.pdf,5,5,1.0,1,0.75
+16,What is the significance of equilibria analysis in the cancer model?,FAISS,[11] Chaos in a 3D Cancer Model.pdf,5,5,1.0,1,0.667
+16,What is the significance of equilibria analysis in the cancer model?,Hybrid,[11] Chaos in a 3D Cancer Model.pdf,5,5,1.0,1,0.667
+17,Under what conditions can chaotic dynamics occur in the cancer model?,FAISS,[11] Chaos in a 3D Cancer Model.pdf,5,5,1.0,1,0.667
+17,Under what conditions can chaotic dynamics occur in the cancer model?,Hybrid,[11] Chaos in a 3D Cancer Model.pdf,5,5,1.0,1,1.0
+18,What is the Lyapunov dimension?,FAISS,[11] Chaos in a 3D Cancer Model.pdf,5,5,1.0,1,1.0
+18,What is the Lyapunov dimension?,Hybrid,[11] Chaos in a 3D Cancer Model.pdf,5,5,1.0,1,1.0
+19,Does the cancer model specify a recommended chemotherapy drug?,FAISS,[11] Chaos in a 3D Cancer Model.pdf,5,5,1.0,1,1.0
+19,Does the cancer model specify a recommended chemotherapy drug?,Hybrid,[11] Chaos in a 3D Cancer Model.pdf,5,5,1.0,1,0.667
+20,How does the immune system recognize tumour cells in the model?,FAISS,[11] Chaos in a 3D Cancer Model.pdf,5,5,1.0,1,1.0
+20,How does the immune system recognize tumour cells in the model?,Hybrid,[11] Chaos in a 3D Cancer Model.pdf,5,5,1.0,1,1.0

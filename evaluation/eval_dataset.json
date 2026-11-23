@@ -1,0 +1,123 @@
+
+[
+    {
+        "id": 1,
+        "question": "What is the objective of the research on chaotic time-series prediction?",
+        "expected_source": "[1] Prediction of chaotic time series using RNN and reservior computing.pdf",
+        "expected_concepts": ["LSTM", "GRU", "ESN", "NVAR", "prediction"]
+    },
+    {
+        "id": 2,
+        "question": "How do GRU and LSTM differ in chaotic time-series prediction?",
+        "expected_source": "[1] Prediction of chaotic time series using RNN and reservior computing.pdf",
+        "expected_concepts": ["gates", "memory", "performance", "computational"]
+    },
+    {
+        "id": 3,
+        "question": "What is an Echo State Network?",
+        "expected_source": "[1] Prediction of chaotic time series using RNN and reservior computing.pdf",
+        "expected_concepts": ["reservoir", "recurrent", "network"]
+    },
+    {
+        "id": 4,
+        "question": "What is the role of NVAR in chaotic time-series prediction?",
+        "expected_source": "[1] Prediction of chaotic time series using RNN and reservior computing.pdf",
+        "expected_concepts": ["nonlinear", "autoregression", "prediction"]
+    },
+    {
+        "id": 5,
+        "question": "Which chaotic systems were used to evaluate the prediction methods?",
+        "expected_source": "[1] Prediction of chaotic time series using RNN and reservior computing.pdf",
+        "expected_concepts": ["Mackey", "Lorenz", "Morris", "ENSO"]
+    },
+    {
+        "id": 6,
+        "question": "Why is forecasting chaotic time series difficult?",
+        "expected_source": "[1] Prediction of chaotic time series using RNN and reservior computing.pdf",
+        "expected_concepts": ["chaotic", "instability", "sensitivity", "trajectory"]
+    },
+    {
+        "id": 7,
+        "question": "What are the advantages of reservoir computing compared with recurrent neural networks?",
+        "expected_source": "[1] Prediction of chaotic time series using RNN and reservior computing.pdf",
+        "expected_concepts": ["ESN", "computational", "efficiency", "prediction"]
+    },
+    {
+        "id": 8,
+        "question": "What is the purpose of using physics-informed Echo State Networks?",
+        "expected_source": "[1] Prediction of chaotic time series using RNN and reservior computing.pdf",
+        "expected_concepts": ["physics", "ESN", "dynamics"]
+    },
+    {
+        "id": 9,
+        "question": "How is prediction accuracy evaluated in the research?",
+        "expected_source": "[1] Prediction of chaotic time series using RNN and reservior computing.pdf",
+        "expected_concepts": ["RMSE", "error", "accuracy", "prediction"]
+    },
+    {
+        "id": 10,
+        "question": "What conclusions does the paper draw about LSTM and GRU performance?",
+        "expected_source": "[1] Prediction of chaotic time series using RNN and reservior computing.pdf",
+        "expected_concepts": ["LSTM", "GRU", "performance", "chaotic"]
+    },
+    {
+        "id": 11,
+        "question": "What is the objective of the research on the 3D cancer model?",
+        "expected_source": "[11] Chaos in a 3D Cancer Model.pdf",
+        "expected_concepts": ["tumour", "healthy", "immune", "chaos"]
+    },
+    {
+        "id": 12,
+        "question": "What are the three interacting cell populations in the cancer model?",
+        "expected_source": "[11] Chaos in a 3D Cancer Model.pdf",
+        "expected_concepts": ["tumour", "healthy", "immune"]
+    },
+    {
+        "id": 13,
+        "question": "What are Lyapunov exponents used for in the 3D cancer model?",
+        "expected_source": "[11] Chaos in a 3D Cancer Model.pdf",
+        "expected_concepts": ["Lyapunov", "chaos", "attractor"]
+    },
+    {
+        "id": 14,
+        "question": "What is the role of effector immune cells in the cancer model?",
+        "expected_source": "[11] Chaos in a 3D Cancer Model.pdf",
+        "expected_concepts": ["effector", "tumour", "antigen", "cytotoxic"]
+    },
+    {
+        "id": 15,
+        "question": "How do tumour cells interact with healthy tissue cells?",
+        "expected_source": "[11] Chaos in a 3D Cancer Model.pdf",
+        "expected_concepts": ["tumour", "healthy", "interaction", "competition"]
+    },
+    {
+        "id": 16,
+        "question": "What is the significance of equilibria analysis in the cancer model?",
+        "expected_source": "[11] Chaos in a 3D Cancer Model.pdf",
+        "expected_concepts": ["equilibria", "stability", "dynamics"]
+    },
+    {
+        "id": 17,
+        "question": "Under what conditions can chaotic dynamics occur in the cancer model?",
+        "expected_source": "[11] Chaos in a 3D Cancer Model.pdf",
+        "expected_concepts": ["chaotic", "parameters", "dynamics"]
+    },
+    {
+        "id": 18,
+        "question": "What is the Lyapunov dimension?",
+        "expected_source": "[11] Chaos in a 3D Cancer Model.pdf",
+        "expected_concepts": ["Lyapunov", "dimension", "attractor"]
+    },
+    {
+        "id": 19,
+        "question": "Does the cancer model specify a recommended chemotherapy drug?",
+        "expected_source": "[11] Chaos in a 3D Cancer Model.pdf",
+        "expected_concepts": ["chemotherapy", "treatment", "drug"]
+    },
+    {
+        "id": 20,
+        "question": "How does the immune system recognize tumour cells in the model?",
+        "expected_source": "[11] Chaos in a 3D Cancer Model.pdf",
+        "expected_concepts": ["antigen", "immune", "recognition", "tumour"]
+    }
+]
